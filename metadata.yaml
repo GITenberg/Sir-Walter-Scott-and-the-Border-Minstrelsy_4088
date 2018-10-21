@@ -1,5 +1,5 @@
 _repo: Sir-Walter-Scott-and-the-Border-Minstrelsy_4088
-_version: 0.2.0
+_version: 0.2.1
 covers:
 - cover_type: generated
   image_path: cover.png
@@ -29,5 +29,6 @@ subjects:
 - !lcsh 'Scott, Walter, Sir, 1771-1832 -- Knowledge -- Literature'
 - !lcsh 'Popular culture -- Scotland -- Scottish Borders'
 - !lcsh 'Ballads, Scots -- Scotland -- Scottish Borders -- History and criticism'
+- GITenberg
 title: Sir Walter Scott and the Border Minstrelsy
 url: http://www.gutenberg.org/ebooks/4088
